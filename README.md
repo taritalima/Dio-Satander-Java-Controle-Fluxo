@@ -1,4 +1,20 @@
 
+# Dio-Santander-Java-Controle-Fluxo
+
+Repositório com exercícios de **controle de fluxo em Java**, desenvolvidos durante o bootcamp **Santander Java** promovido pela **DIO**.
+
+---
+
+## 📚 Descrição dos Exercícios
+
+### 1. 📌 Tabuada
+Escreva um código onde o usuário entra com um número e seja gerada a **tabuada de 1 até 10** desse número.
+
+---
+
+### 2. ⚖️ Cálculo do IMC
+Escreva um código onde o usuário informa sua **altura** e **peso**, e o programa calcula o **IMC (Índice de Massa Corporal)** utilizando a fórmula:
+
 Com base no valor calculado, exibir uma das seguintes mensagens:
 
 - **≤ 18,5** → Abaixo do peso  
